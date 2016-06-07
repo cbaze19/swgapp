@@ -1,0 +1,9 @@
+C:\Users\cbaze\Downloads\swg\swg\bin\Debug\swg.exe.config
+C:\Users\cbaze\Downloads\swg\swg\bin\Debug\swg.exe
+C:\Users\cbaze\Downloads\swg\swg\bin\Debug\swg.pdb
+C:\Users\cbaze\Downloads\swg\swg\obj\Debug\swg.csprojResolveAssemblyReference.cache
+C:\Users\cbaze\Downloads\swg\swg\obj\Debug\swg.MainWindow.resources
+C:\Users\cbaze\Downloads\swg\swg\obj\Debug\swg.Properties.Resources.resources
+C:\Users\cbaze\Downloads\swg\swg\obj\Debug\swg.csproj.GenerateResource.Cache
+C:\Users\cbaze\Downloads\swg\swg\obj\Debug\swg.exe
+C:\Users\cbaze\Downloads\swg\swg\obj\Debug\swg.pdb
